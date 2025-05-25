@@ -103,7 +103,8 @@ Me chamo Cayo Mendes, tenho 26 anos e sou de Brasília. Atualmente me formando e
 <img 
       align="left" 
       alt="GitHub Streak" 
-      height="170" 
+      height="125" 
+      style="padding-right: 5px;"
       src="https://streak-stats.demolab.com?user=CayoMe&locale=pt-br&mode=weekly&theme=radical&hide_border=true&border_radius=5&date_format=j%20M%5B%20Y%5D&order=3" 
   />
 
@@ -111,7 +112,8 @@ Me chamo Cayo Mendes, tenho 26 anos e sou de Brasília. Atualmente me formando e
 <img 
       align="left" 
       alt="GitHub Contributor" 
-      height="170" 
+      height="125"
+      style="padding-right: 5px;" 
       src="https://github-contributor-stats.vercel.app/api?username=CayoMe&limit=5&theme=radical&combine_all_yearly_contributions=true&hide_border=true" 
   />
 
@@ -120,16 +122,16 @@ Me chamo Cayo Mendes, tenho 26 anos e sou de Brasília. Atualmente me formando e
     align="left" 
     alt="GitHub Stats" 
     height="125" 
-    style="padding-right: 10px;" 
+    style="padding-right: 5px;" 
     src="https://github-readme-stats.vercel.app/api?username=CayoMe&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=pt-br&hide_border=true&order=1" 
   />
 
 
-<!-- <img 
+<img 
       align="left" 
       alt="GitHub Graphic" 
-      height="200" 
+      height="150" 
       src="https://github-readme-activity-graph.vercel.app/graph?username=CayoMe&radius=16&theme=redical&area=true&order=5&hide_border=true" 
   />
 
-</p> -->
+</p>
