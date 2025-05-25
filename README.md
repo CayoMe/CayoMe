@@ -1,8 +1,21 @@
 # 🖤 Cayo
 
+<img 
+    align="right" 
+    alt="HTML"
+    title="HTML" 
+    height="200" 
+    style="padding-right: 10px;" 
+    src="https://i.redd.it/uwwte8wps4h91.gif" 
+/>
+
 **`Um jovem das engrenagens lógicas, guiado por inquietações do espírito e pela sede de domínio sobre o tempo, as paixões e os códigos que regem o mundo`**
 
 Me chamo Cayo Mendes, tenho 26 anos e sou de Brasília. Atualmente me formando em Ciência da Computação pela Universidade Católica e em busca de novos projetos! Meu Instagram, é com o perfil chamado "[@mm.cayo](https://www.instagram.com/mm.cayo/)".
+
+<br>
+<br>
+
 
 ---
 
@@ -91,22 +104,35 @@ Me chamo Cayo Mendes, tenho 26 anos e sou de Brasília. Atualmente me formando e
 />
 <br/>
 <br/>
-
-
+---
 <p>
   <img 
     align="left" 
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=CayoMe&show_icons=true&theme=midnight-purple&include_all_commits=true&locale=pt-br" 
+    src="https://github-readme-stats.vercel.app/api?username=CayoMe&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=pt-br&hide_border=true&order=1" 
   />
 
 <img 
       align="left" 
-      alt="GitHub Stats" 
+      alt="GitHub Streak" 
       height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=CayoMe&theme=midnight-purple&layout=compact&custom_title=Linguagens&langs_count=7" 
+      src="https://streak-stats.demolab.com?user=CayoMe&locale=pt-br&mode=weekly&theme=radical&hide_border=true&border_radius=5&date_format=j%20M%5B%20Y%5D&order=3" 
   />
 
 </p>
+<img 
+      align="left" 
+      alt="GitHub Contributor" 
+      height="200" 
+      src="https://github-contributor-stats.vercel.app/api?username=CayoMe&limit=5&theme=radical&combine_all_yearly_contributions=true&hide_border=true" 
+  />
+<!-- <img 
+      align="left" 
+      alt="GitHub Graphic" 
+      height="200" 
+      src="https://github-readme-activity-graph.vercel.app/graph?username=CayoMe&radius=16&theme=redical&area=true&order=5&hide_border=true" 
+  />
+
+</p> -->
