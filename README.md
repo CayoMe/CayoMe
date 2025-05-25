@@ -2,7 +2,7 @@
 
 **`Um jovem das engrenagens lógicas, guiado por inquietações do espírito e pela sede de domínio sobre o tempo, as paixões e os códigos que regem o mundo`**
 
-Me chamo Cayo Mendes, tenho 26 anos e sou de Brasília. Atualmente me formando em Ciência da Computação pela católica e em busca de novos projetos! Meu Instagram, é com o perfil chamado "[@mm.cayo](https://www.instagram.com/mm.cayo/)".
+Me chamo Cayo Mendes, tenho 26 anos e sou de Brasília. Atualmente me formando em Ciência da Computação pela Universidade Católica e em busca de novos projetos! Meu Instagram, é com o perfil chamado "[@mm.cayo](https://www.instagram.com/mm.cayo/)".
 
 ---
 
@@ -59,6 +59,30 @@ Me chamo Cayo Mendes, tenho 26 anos e sou de Brasília. Atualmente me formando e
 />
 <img 
     align="left" 
+    alt="Node" 
+    title="Node"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-plain-wordmark.svg" 
+/>
+<img 
+    align="left" 
+    alt="Ruby" 
+    title="Ruby"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ruby/ruby-plain.svg"
+/>
+<img 
+    align="left" 
+    alt="Electron" 
+    title="Electron"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/electron/electron-original.svg"
+/>
+<img 
+    align="left" 
     alt="Git" 
     title="Git"
     width="30px" 
@@ -75,14 +99,14 @@ Me chamo Cayo Mendes, tenho 26 anos e sou de Brasília. Atualmente me formando e
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=CayoMe&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+    src="https://github-readme-stats.vercel.app/api?username=CayoMe&show_icons=true&theme=radical&include_all_commits=true&locale=pt-br" 
   />
 
 <img 
       align="left" 
       alt="GitHub Stats" 
       height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=larissakich&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=CayoMe&theme=radical&layout=compact&custom_title=Linguagens&langs_count=7" 
   />
 
 </p>
