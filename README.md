@@ -11,14 +11,7 @@
 
 **`Um jovem das engrenagens lógicas, guiado por inquietações do espírito e pela sede de domínio sobre o tempo, as paixões e os códigos que regem o mundo`**
 
-Me chamo Cayo Mendes, tenho 26 anos e sou de Brasília. Atualmente me formando em Ciência da Computação pela Universidade Católica e em busca de novos projetos! Meu Instagram, é com o perfil chamado "[@mm.cayo](https://www.instagram.com/mm.cayo/)".
-
-<br/>
-<br/>
-
----
-
-###  Linguagens e Tecnologias
+Me chamo Cayo Mendes, tenho 26 anos e sou de Brasília. Atualmente me formando em Ciência da Computação pela Universidade Católica e em busca de novos projetos! Meu Instagram, é com o perfil chamado "[Cayo](https://www.instagram.com/mm.cayo/)".
 
 <img 
     align="left" 
@@ -101,6 +94,7 @@ Me chamo Cayo Mendes, tenho 26 anos e sou de Brasília. Atualmente me formando e
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
+
 <br/>
 <br/>
 
