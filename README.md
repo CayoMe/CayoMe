@@ -100,24 +100,21 @@ Me chamo Cayo Mendes, tenho 26 anos e sou de Brasília. Atualmente me formando e
 
 ---
 
-<p align="center">
-  <img 
-    height="160em" 
-    src="https://github-readme-stats.vercel.app/api?username=CayoMe&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=pt-br&hide_border=true" 
-  />
-  <img 
-    height="160em" 
-    src="https://streak-stats.demolab.com?user=CayoMe&locale=pt-br&mode=weekly&theme=radical&hide_border=true&border_radius=5&date_format=j%20M%5B%20Y%5D&order=3" 
-  />
-  <img 
-    height="160em" 
-    src="https://github-contributor-stats.vercel.app/api?username=CayoMe&limit=5&theme=radical&combine_all_yearly_contributions=true&hide_border=true" 
-  />
-</p>
-
-<p align="center">
-  <img 
-    height="200em"
-    src="https://github-readme-activity-graph.vercel.app/graph?username=CayoMe&radius=16&theme=redical&area=true&order=5&hide_border=true" 
-  />
-</p>
+<table align="center">
+  <tr>
+    <td>
+      <img height="160em" src="https://github-readme-stats.vercel.app/api?username=CayoMe&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=pt-br&hide_border=true" />
+    </td>
+    <td>
+      <img height="160em" src="https://streak-stats.demolab.com?user=CayoMe&locale=pt-br&mode=weekly&theme=radical&hide_border=true&border_radius=5&date_format=j%20M%5B%20Y%5D&order=3" />
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img height="160em" src="https://github-contributor-stats.vercel.app/api?username=CayoMe&limit=5&theme=radical&combine_all_yearly_contributions=true&hide_border=true" />
+    </td>
+    <td>
+      <img height="160em" src="https://github-readme-activity-graph.vercel.app/graph?username=CayoMe&radius=16&theme=redical&area=true&order=5&hide_border=true" />
+    </td>
+  </tr>
+</table>
