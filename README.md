@@ -99,14 +99,14 @@ Me chamo Cayo Mendes, tenho 26 anos e sou de Brasília. Atualmente me formando e
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=CayoMe&show_icons=true&theme=radical&include_all_commits=true&locale=pt-br" 
+    src="https://github-readme-stats.vercel.app/api?username=CayoMe&show_icons=true&theme=midnight-purple&include_all_commits=true&locale=pt-br" 
   />
 
 <img 
       align="left" 
       alt="GitHub Stats" 
       height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=CayoMe&theme=radical&layout=compact&custom_title=Linguagens&langs_count=7" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=CayoMe&theme=midnight-purple&layout=compact&custom_title=Linguagens&langs_count=7" 
   />
 
 </p>
