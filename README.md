@@ -18,7 +18,7 @@ Me chamo Cayo Mendes, tenho 26 anos e sou de Brasília. Atualmente me formando e
     alt="HTML"
     title="HTML" 
     width="30px" 
-    style="padding-right: 10px;padding-top: 5px;" 
+    style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
 />
 <img 
@@ -26,7 +26,7 @@ Me chamo Cayo Mendes, tenho 26 anos e sou de Brasília. Atualmente me formando e
     alt="CSS" 
     title="CSS"
     width="30px" 
-    style="padding-right: 10px;padding-top: 5px;" 
+    style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
 />
 <img 
@@ -34,7 +34,7 @@ Me chamo Cayo Mendes, tenho 26 anos e sou de Brasília. Atualmente me formando e
     alt="JavaScript" 
     title="JavaScript"
     width="30px" 
-    style="padding-right: 10px;padding-top: 5px;" 
+    style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
 />
 <img 
@@ -42,16 +42,15 @@ Me chamo Cayo Mendes, tenho 26 anos e sou de Brasília. Atualmente me formando e
     alt="TypeScript"
     title="TypeScript" 
     width="30px" 
-    style="padding-right: 10px;padding-top: 5px;" 
+    style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
 />
-
 <img 
     align="left" 
     alt="Bootstrap"
     title="Bootstrap" 
     width="30px" 
-    style="padding-right: 10px;padding-top: 5px;" 
+    style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" 
 />
 <img 
@@ -59,7 +58,7 @@ Me chamo Cayo Mendes, tenho 26 anos e sou de Brasília. Atualmente me formando e
     alt="Tailwind" 
     title="Tailwind"
     width="30px" 
-    style="padding-right: 10px;padding-top: 5px;" 
+    style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" 
 />
 <img 
@@ -67,7 +66,7 @@ Me chamo Cayo Mendes, tenho 26 anos e sou de Brasília. Atualmente me formando e
     alt="Node" 
     title="Node"
     width="30px" 
-    style="padding-right: 10px;padding-top: 5px;" 
+    style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-plain-wordmark.svg" 
 />
 <img 
@@ -75,7 +74,7 @@ Me chamo Cayo Mendes, tenho 26 anos e sou de Brasília. Atualmente me formando e
     alt="Ruby" 
     title="Ruby"
     width="30px" 
-    style="padding-right: 10px;padding-top: 5px;" 
+    style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ruby/ruby-plain.svg"
 />
 <img 
@@ -83,7 +82,7 @@ Me chamo Cayo Mendes, tenho 26 anos e sou de Brasília. Atualmente me formando e
     alt="Electron" 
     title="Electron"
     width="30px" 
-    style="padding-right: 10px;padding-top: 5px;" 
+    style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/electron/electron-original.svg"
 />
 <img 
@@ -91,7 +90,8 @@ Me chamo Cayo Mendes, tenho 26 anos e sou de Brasília. Atualmente me formando e
     alt="Git" 
     title="Git"
     width="30px"
-    style="padding-right: 10px;padding-top: 5px;" 
+    height="30px" 
+    style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
 
@@ -100,38 +100,24 @@ Me chamo Cayo Mendes, tenho 26 anos e sou de Brasília. Atualmente me formando e
 
 ---
 
-<img 
-      align="left" 
-      alt="GitHub Streak" 
-      height="125" 
-      style="padding-right: 5px;"
-      src="https://streak-stats.demolab.com?user=CayoMe&locale=pt-br&mode=weekly&theme=radical&hide_border=true&border_radius=5&date_format=j%20M%5B%20Y%5D&order=3" 
-  />
-
-</p>
-<img 
-      align="left" 
-      alt="GitHub Contributor" 
-      height="125"
-      style="padding-right: 5px;" 
-      src="https://github-contributor-stats.vercel.app/api?username=CayoMe&limit=5&theme=radical&combine_all_yearly_contributions=true&hide_border=true" 
-  />
-
-<p>
+<p align="center">
   <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="125" 
-    style="padding-right: 5px;" 
-    src="https://github-readme-stats.vercel.app/api?username=CayoMe&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=pt-br&hide_border=true&order=1" 
+    height="160em" 
+    src="https://github-readme-stats.vercel.app/api?username=CayoMe&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=pt-br&hide_border=true" 
   />
-
-
-<img 
-      align="left" 
-      alt="GitHub Graphic" 
-      height="150" 
-      src="https://github-readme-activity-graph.vercel.app/graph?username=CayoMe&radius=16&theme=redical&area=true&order=5&hide_border=true" 
+  <img 
+    height="160em" 
+    src="https://streak-stats.demolab.com?user=CayoMe&locale=pt-br&mode=weekly&theme=radical&hide_border=true&border_radius=5&date_format=j%20M%5B%20Y%5D&order=3" 
   />
+  <img 
+    height="160em" 
+    src="https://github-contributor-stats.vercel.app/api?username=CayoMe&limit=5&theme=radical&combine_all_yearly_contributions=true&hide_border=true" 
+  />
+</p>
 
+<p align="center">
+  <img 
+    height="200em"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=CayoMe&radius=16&theme=radical&area=true&order=5&hide_border=true" 
+  />
 </p>
