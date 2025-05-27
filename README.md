@@ -100,20 +100,20 @@ Me chamo Cayo Mendes, tenho 26 anos e sou de Brasília. Atualmente me formando e
 
 ---
 <table>
-  <tr>
-    <td align="center" valign="top" width="400px">
-      <img src="https://streak-stats.demolab.com?user=CayoMe&locale=pt-br&mode=weekly&theme=radical&hide_border=true&border_radius=5&date_format=j%20M%5B%20Y%5D&order=3" width="380px" height="180px"/>
+<tr>
+    <td>
+      <img height="160px" width="380px" src="https://streak-stats.demolab.com?user=CayoMe&locale=pt-br&mode=weekly&theme=radical&hide_border=true&border_radius=5&date_format=j%20M%5B%20Y%5D&order=3" />
     </td>
-    <td align="center" valign="top" width="400px">
-      <img src="https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=CayoMe&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=pt-br&hide_border=true&order=1" width="380px" height="180px"/>
+    <td>
+       <img height="160px" width="380px" src="https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=CayoMe&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=pt-br&hide_border=true&order=1" />
     </td>
   </tr>
   <tr>
-    <td align="center" valign="top" width="400px">
-      <img src="https://github-contributor-stats.vercel.app/api?username=CayoMe&limit=5&theme=radical&combine_all_yearly_contributions=true&hide_border=true" width="380px" height="180px"/>
+    <td>
+      <img height="160px" width="380px" src="https://github-contributor-stats.vercel.app/api?username=CayoMe&limit=5&theme=radical&combine_all_yearly_contributions=true&hide_border=true" />
     </td>
-    <td align="center" valign="top" width="400px">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CayoMe&theme=radical&locale=pt-br&hide_border=true&include_all_commits=true&count_private=true&layout=compact" width="380px" height="180px"/>
+    <td>
+      <img height="160px" width="380px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CayoMe&theme=radical&locale=pt-br&hide_border=true&include_all_commits=true&count_private=true&layout=compact" />
     </td>
   </tr>
 </table>
