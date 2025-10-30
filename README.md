@@ -102,7 +102,7 @@ Me chamo Cayo Mendes, tenho 26 anos e sou de Brasília. Atualmente me formando e
 <table>
 <tr>
     <td>
-        <img height="160px" width="380px" src="https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=CayoMe&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=buefy&locale=pt-br&hide_border=true&order=1" />
+        <img height="160px" width="380px" src="https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=cayome&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=buefy&locale=pt-br&hide_border=true&order=1" />
     </td>
     <td>
        <img height="160px" width="380px" src="https://streak-stats.demolab.com?user=CayoMe&locale=pt-br&mode=weekly&theme=buefy&hide_border=true&border_radius=5&date_format=j%20M%5B%20Y%5D&order=3" />
